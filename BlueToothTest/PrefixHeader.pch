@@ -1,0 +1,28 @@
+//
+//  PrefixHeader.pch
+//  YiXiaoBaoMall
+//
+//  Created by zhangjin on 15/12/1.
+//  Copyright © 2015年 徐凯. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+
+
+
+
+
+#import "Tools.h"
+#import "AFNetworking.h"
+#import "UIImageView+WebCache.h"
+#import "MJExtension.h"
+#import "MJRefresh.h"
+#import "AppDelegate.h"
+
+
+#endif /* PrefixHeader_pch */
